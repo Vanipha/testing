@@ -1,2 +1,6 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,title,format,filename,date,subject,location,latitude,longitude,description
+item1,Summer Sunset,image/jpeg,sunset.jpeg,2021,sunset; summer; nature,Niagara on the Lake,43.26049,-79.094737,A park in notl
+item2,Garden Path,image/jpeg,path.jpeg,2020,garden; fall; nature,Niagara Botanical Gardens,43.135078,-79.056158,A pathway in the botanical gardens
+item3,The Gorge,image/jpeg,gorge.jpeg,2021,gorge; summer; nature,The Gorge,43.132445,-79.052929,The niagara gorge hiking trail
+item4,Cool Rock,image/jpeg,rock.jpeg,2021,gorge; summer; nature,The Gorge,43.132445,-79.052929,The niagara gorge hiking trail
+item5,Christmas Market,image/jpeg,winter.jpeg,2019,friends; winter; trip,Toronto,43.650395,-79.359063,Toronto christmas market
